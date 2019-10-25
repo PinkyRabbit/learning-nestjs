@@ -1,0 +1,8 @@
+**/node_modules/
+**/dist/
+**/build/
+
+# ide
+.vscode
+.idea
+*.swp
