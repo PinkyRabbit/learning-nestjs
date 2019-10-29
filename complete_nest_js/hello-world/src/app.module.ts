@@ -1,6 +1,7 @@
 import { Module } from '@nestjs/common';
 import { LocationModule } from './location/location.module';
 import { ConfigModule } from './config/config.module';
+import "reflect-metadata";
 import { DatabaseModule } from './database/database.module';
 import { CommonModule } from './common/common.module';
 
